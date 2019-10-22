@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Checkout Project\Checkout Project\bin\Debug\Checkout Project.exe.config
+C:\Users\user\source\repos\Checkout Project\Checkout Project\bin\Debug\Checkout Project.exe
+C:\Users\user\source\repos\Checkout Project\Checkout Project\bin\Debug\Checkout Project.pdb
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout Project.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout_Project.WelcomePage.resources
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout_Project.LoginPage.resources
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout_Project.Properties.Resources.resources
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout Project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout Project.exe
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout Project.pdb
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout_Project.UserPage.resources
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout_Project.PaymentPage.resources
+C:\Users\user\source\repos\Checkout Project\Checkout Project\obj\Debug\Checkout_Project.OrderPage.resources
